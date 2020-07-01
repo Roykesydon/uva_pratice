@@ -1,0 +1,17 @@
+cd
+cd ..
+cd d:
+ls
+pwd
+clear
+
+git add <file>
+git add --all
+git commit -m "你想說的話"
+git log
+git show <流水碼> //看改動，參考linus diff
+git reset --hard <版號>
+git reflog
+git status
+git pull
+git push
