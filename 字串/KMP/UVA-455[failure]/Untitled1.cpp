@@ -30,6 +30,5 @@ int main()
 		else
 			cout<<len-failure[len-1]<<'\n';
 	}
-
 	return 0;
 }
