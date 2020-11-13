@@ -30,6 +30,9 @@ int main()
 		else
 			cout<<len-failure[len-1]<<'\n';
 	}
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7f2a55bfb6b02b5937addd9ef61909a5229d4769
 	return 0;
 }
